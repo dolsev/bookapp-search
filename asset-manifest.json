@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bookapp-search/static/css/main.5ce30b0e.css",
-    "main.js": "/bookapp-search/static/js/main.60d5f06b.js",
+    "main.js": "/bookapp-search/static/js/main.af379d25.js",
     "index.html": "/bookapp-search/index.html",
     "main.5ce30b0e.css.map": "/bookapp-search/static/css/main.5ce30b0e.css.map",
-    "main.60d5f06b.js.map": "/bookapp-search/static/js/main.60d5f06b.js.map"
+    "main.af379d25.js.map": "/bookapp-search/static/js/main.af379d25.js.map"
   },
   "entrypoints": [
     "static/css/main.5ce30b0e.css",
-    "static/js/main.60d5f06b.js"
+    "static/js/main.af379d25.js"
   ]
 }
